@@ -1,0 +1,17 @@
+# mac stuff
+.DS_Store
+
+/build
+/.svelte-kit
+/package
+
+# utils
+.prettierrc
+
+# node stuff
+node_modules
+npm-debug.log
+package-lock.json
+
+# aveltekit adaptor build outputs
+.vercel_build_output
